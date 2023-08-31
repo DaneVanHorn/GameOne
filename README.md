@@ -1,10 +1,10 @@
 # GameOne
 The first of many
 
-**Instructions**
+**Instructions:**
 
 
-**Authors**
+**Authors:**
 Dane Van Horn,
 Joel David Craig,
 Seth Lee Kirby,
